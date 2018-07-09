@@ -1,0 +1,22 @@
+{
+  "name": "wallid-listenerid",
+  "version": "1.0.0",
+  "description": "Listener lib for events in wallId",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wallid-project/wallid-ListenerID.git"
+  },
+  "keywords": [
+    "wallid"
+  ],
+  "author": "vitor viana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wallid-project/wallid-ListenerID/issues"
+  },
+  "homepage": "https://github.com/wallid-project/wallid-ListenerID#readme"
+}
