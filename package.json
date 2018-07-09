@@ -4,7 +4,7 @@
   "description": "Listener lib for events in wallId",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node ./lib/eventListening"
   },
   "repository": {
     "type": "git",
@@ -18,5 +18,11 @@
   "bugs": {
     "url": "https://github.com/wallid-project/wallid-ListenerID/issues"
   },
-  "homepage": "https://github.com/wallid-project/wallid-ListenerID#readme"
+  "homepage": "https://github.com/wallid-project/wallid-ListenerID#readme",
+  "dependencies": {
+    "async": "^2.6.1",
+    "eth-lightwallet": "^3.0.1",
+    "truffle-contract": "^3.0.6",
+    "web3": "^1.0.0-beta.34"
+  }
 }
