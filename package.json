@@ -4,7 +4,7 @@
   "description": "Listener lib for events in wallId",
   "main": "index.js",
   "scripts": {
-    "start": "node ./lib/eventListening"
+    "start": "pm2 start ./lib/eventListening.js -n listenerID"
   },
   "repository": {
     "type": "git",
