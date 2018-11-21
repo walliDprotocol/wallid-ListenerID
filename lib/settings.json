@@ -1,0 +1,7 @@
+{
+  "wallet_adress": "0x097d2277502B99c18C9FE83076861Ff791e3594B",
+  "storeid_url": "https://storeid.caixamagica.pt/api/v1/data",
+  "kyc_url": "http://172.17.0.3:3000/api/v1/data/payment",
+  "is_storeid_listener": true,
+  "is_kyc_listener": true
+}

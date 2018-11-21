@@ -1,7 +1,6 @@
 {
     "contractName": "WallId",
     "contract_adress": "0x787e5fc4773cad0c45f287bf00daca402845b1b7",
-    "wallet_adress": "0x097d2277502B99c18C9FE83076861Ff791e3594B",
     "abi": [
         {
             "anonymous": false,
